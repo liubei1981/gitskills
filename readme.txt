@@ -1,3 +1,8 @@
 add in dev branch
-modify in master
+<<<<<<< HEAD
 add in dev feature1
+modify in feature1
+=======
+add in dev feature1
+modify in feature1
+>>>>>>> feature1
